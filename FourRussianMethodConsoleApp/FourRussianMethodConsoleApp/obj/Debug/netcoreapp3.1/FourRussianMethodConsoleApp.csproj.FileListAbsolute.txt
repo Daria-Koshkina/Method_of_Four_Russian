@@ -1,0 +1,13 @@
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodConsoleApp\FourRussianMethodConsoleApp\bin\Debug\netcoreapp3.1\FourRussianMethodConsoleApp.exe
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodConsoleApp\FourRussianMethodConsoleApp\bin\Debug\netcoreapp3.1\FourRussianMethodConsoleApp.deps.json
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodConsoleApp\FourRussianMethodConsoleApp\bin\Debug\netcoreapp3.1\FourRussianMethodConsoleApp.runtimeconfig.json
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodConsoleApp\FourRussianMethodConsoleApp\bin\Debug\netcoreapp3.1\FourRussianMethodConsoleApp.runtimeconfig.dev.json
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodConsoleApp\FourRussianMethodConsoleApp\bin\Debug\netcoreapp3.1\FourRussianMethodConsoleApp.dll
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodConsoleApp\FourRussianMethodConsoleApp\bin\Debug\netcoreapp3.1\FourRussianMethodConsoleApp.pdb
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodConsoleApp\FourRussianMethodConsoleApp\obj\Debug\netcoreapp3.1\FourRussianMethodConsoleApp.csprojAssemblyReference.cache
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodConsoleApp\FourRussianMethodConsoleApp\obj\Debug\netcoreapp3.1\FourRussianMethodConsoleApp.AssemblyInfoInputs.cache
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodConsoleApp\FourRussianMethodConsoleApp\obj\Debug\netcoreapp3.1\FourRussianMethodConsoleApp.AssemblyInfo.cs
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodConsoleApp\FourRussianMethodConsoleApp\obj\Debug\netcoreapp3.1\FourRussianMethodConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodConsoleApp\FourRussianMethodConsoleApp\obj\Debug\netcoreapp3.1\FourRussianMethodConsoleApp.dll
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodConsoleApp\FourRussianMethodConsoleApp\obj\Debug\netcoreapp3.1\FourRussianMethodConsoleApp.pdb
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodConsoleApp\FourRussianMethodConsoleApp\obj\Debug\netcoreapp3.1\FourRussianMethodConsoleApp.genruntimeconfig.cache

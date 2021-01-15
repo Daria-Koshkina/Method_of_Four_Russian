@@ -1,0 +1,13 @@
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodFormsApp\FourRussianMethodFormsApp\bin\Debug\FourRussianMethodFormsApp.exe.config
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodFormsApp\FourRussianMethodFormsApp\bin\Debug\FourRussianMethodFormsApp.exe
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodFormsApp\FourRussianMethodFormsApp\bin\Debug\FourRussianMethodFormsApp.pdb
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodFormsApp\FourRussianMethodFormsApp\obj\Debug\FourRussianMethodFormsApp.csprojAssemblyReference.cache
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodFormsApp\FourRussianMethodFormsApp\obj\Debug\FourRussianMethodFormsApp.FillMatrixDataForm.resources
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodFormsApp\FourRussianMethodFormsApp\obj\Debug\FourRussianMethodFormsApp.Properties.Resources.resources
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodFormsApp\FourRussianMethodFormsApp\obj\Debug\FourRussianMethodFormsApp.csproj.GenerateResource.cache
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodFormsApp\FourRussianMethodFormsApp\obj\Debug\FourRussianMethodFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodFormsApp\FourRussianMethodFormsApp\obj\Debug\FourRussianMethodFormsApp.exe
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodFormsApp\FourRussianMethodFormsApp\obj\Debug\FourRussianMethodFormsApp.pdb
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodFormsApp\FourRussianMethodFormsApp\obj\Debug\FourRussianMethodFormsApp.PreprocessingForm.resources
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodFormsApp\FourRussianMethodFormsApp\obj\Debug\FourRussianMethodFormsApp.ResultForm.resources
+C:\Users\koshk\OneDrive\Рабочий стол\Project\C#\FourRussianMethodFormsApp\FourRussianMethodFormsApp\obj\Debug\FourRussianMethodFormsApp.MainForm.resources
